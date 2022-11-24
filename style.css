@@ -1,0 +1,12 @@
+.stars{
+    border: none;
+    background-color: unset;
+    color: goldenrod;
+    font-size: 30px;
+}
+
+#submit{
+ border: 1px solid rgb(206, 201, 201);
+padding: 15px;
+
+}
